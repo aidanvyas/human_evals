@@ -1,0 +1,41 @@
+date,metric,value,notes
+2025-10-07,MileTime,10.0,
+2025-10-10,5K_Pace,12.0,
+2025-10-12,LongRun,6.21,10 km
+2025-10-12,4HourDistance,6.21,10 km
+2025-10-14,MileTime,9.5,9 min 30 sec
+2025-10-16,5K_Pace,11.5,11 min 30 sec
+2025-10-16,LongRun,8.13,13.08 km
+2025-10-16,4HourDistance,8.13,13.08 km
+2025-10-21,MileTime,9.0,
+2025-10-23,5K_Pace,11.0,
+2025-10-28,MileTime,8.5,8 min 30 sec
+2025-10-30,5K_Pace,10.5,10 min 30 sec
+2025-11-01,LongRun,10.01,16.11 km
+2025-11-01,4HourDistance,10.01,16.11 km
+2025-11-12,MileTime,8.3125,"8 min 15 sec, only did 75% of HIIT"
+2025-11-17,MileTime,8.3125,"8 min 15 sec, only did 75% of HIIT"
+2025-11-24,LongRun,13.11,21.10 km
+2025-11-24,4HourDistance,13.11,21.10 km
+2025-12-09,MileTime,8.25,8 min 15 sec
+2025-12-11,5K_Pace,10.25,10 min 15 sec
+2026-01-20,MileTime,8.3125,"8 min 15 sec, only did 75% of HIIT"
+2026-01-23,5K_Pace,10.3225,"10 min 15 sec, only did 71% of 5K"
+2026-02-03,MileTime,8.25,
+2026-02-07,5K_Pace,10.1,"60% at 10 min, 40% at 10 min 15 sec"
+2026-02-10,MileTime,8.046875,"13/16 at 8 min, 3/16 at 8 min 15 sec"
+2026-02-12,5K_Pace,10.094,"3.12 km at 10 min, 1.88 km at 10 min 15 sec"
+2026-02-17,MileTime,8.0625,"75% at 8 min, 25% at 8 min 15 sec, only did 75% of HIIT"
+2026-02-19,5K_Pace,10.1,"3 km at 10 min, 2 km at 10 min 15 sec, stopped after 3 km"
+2026-03-07,LongRun,6.21,10 km
+2026-03-07,4HourDistance,6.21,10 km
+2026-03-10,MileTime,8.125,"50% at 8 min, 50% at 8 min 15 sec"
+2026-03-14,5K_Pace,10.1,"3 km at 10 min, 2 km at 10 min 15 sec"
+2026-04-02,5K_Pace,13.13,40:48 total (40.8 min / 3.107 mi = 13.13 min/mile)
+2026-04-06,5K_Pace,10.88,33:48 total (33.8 min / 3.107 mi = 10.88 min/mile)
+2026-04-21,MileTime,9.125,"50% at 8 min 15 sec, 50% at 10 min (quit after)"
+2026-04-23,5K_Pace,12.47,38:44 total (38.73 min / 3.107 mi = 12.47 min/mile)
+2026-05-19,MileTime,9.015625,"9/16 at 8 min 15 sec, 7/16 at 10 min"
+2026-05-26,MileTime,8.578125,"13/16 at 8 min 15 sec, 3/16 at 10 min"
+2026-06-09,MileTime,8.6875,"12/16 at 8 min 15 sec, 4/16 at 10 min"
+2026-06-11,5K_Pace,10.036,"31:11 total (31.183 min / 3.107 mi = 10.04 min/mile), full continuous 5K"
